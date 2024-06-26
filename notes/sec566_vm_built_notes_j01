@@ -1,0 +1,8 @@
+Started with the bare bone Win11 VM made for Mark Baggett 573
+
+WSL was set to two, fixed that
+There was no distro installed.  I installed Ubuntu-24.04 
+Had to enable the Virtual Machine Platform Windows feature then reinstall.
+
+
+
