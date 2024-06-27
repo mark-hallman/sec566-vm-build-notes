@@ -25,7 +25,10 @@ SIS Turn-in Date:
 
 ## Win11 Configuration
 - [ ] No WSL - What about the EWB?  Could use pure PowerShell like we did in 670
-- [ ] Enable RDP in/out
+  - [ ] I installed WSL and Ubuntu 22.04 LTS for the EWB
+  - [x] Created desktop shortcut to running workbook-update
+- [x] Enable RDP in/out
+- [ ] Update PowerShell 7 to latest version
 - [ ] Disable Windows Defender
 - [ ] Disable Windows Update
 - [x] Desktop shortcuts and items pinned to the task bar.
@@ -47,7 +50,8 @@ SIS Turn-in Date:
   - [x] Install prereq  Neo4j
   - [x] Add the license file
   - [ ] Add the self-signed cert to trusted certs
-  - [ ] Add the CSAT icon to the task bar
+    - [ ] I did not add the self signed cert to the trusted certs but there is not popup warning when launchin the site.
+  - [x] Add the CSAT icon to the task bar
 - [ ] Add the OpenVPN icon to the task bar
 - [ ] Turn on RDP
 - [x] Change the Windows password to "Sec566!!"
